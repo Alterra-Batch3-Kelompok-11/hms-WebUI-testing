@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Riwayat Pasien</name>
+   <tag></tag>
+   <elementGuidId>95974fc1-df69-4c19-a95e-7db265a62896</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/div[2]/div/table/div[2]/div/tbody/tr/td[7]/div/ul/li[5]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>977bed71-c923-40fb-9182-997c09d2251c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>f91424a5-06ed-4ee7-96fc-d38cebe8250d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Riwayat Pasien</value>
+      <webElementGuid>a5e5b4a2-a54b-4d0d-83ed-5b8b756a83e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 col-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;content container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container border&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-borderless text-center poppins-font&quot;]/div[2]/div[@class=&quot;border _PaddingTopBottom_1knu3_17&quot;]/tbody[1]/tr[1]/td[7]/div[@class=&quot;btn-group&quot;]/ul[@class=&quot;dropdown-menu text-center poppins-font show&quot;]/li[5]/a[@class=&quot;text-decoration-none&quot;]/span[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>2b33250f-2c79-4af6-976e-1c228532bf66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div[2]/div/table/div[2]/div/tbody/tr/td[7]/div/ul/li[5]/a/span</value>
+      <webElementGuid>7afd2d22-0ab7-48d8-967d-9a885f6f25de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus Data'])[1]/following::span[1]</value>
+      <webElementGuid>d18f81b5-5f44-4818-86fb-64c1bdf19874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Data'])[1]/following::span[1]</value>
+      <webElementGuid>7d2e426d-4034-486b-a28f-e333a9dcc070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Rawat Jalan'])[1]/preceding::span[1]</value>
+      <webElementGuid>ac8cfc81-ac4b-4604-8450-59c5a69ead9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gunado Siregar'])[1]/preceding::span[1]</value>
+      <webElementGuid>4948e370-34c6-45b4-ab58-9159d223051e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Riwayat Pasien']/parent::*</value>
+      <webElementGuid>28c648a8-b0d3-4795-8ead-fec86f0948f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>8a90b900-5c2d-4561-b478-7b43c3067379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Riwayat Pasien' or . = 'Riwayat Pasien')]</value>
+      <webElementGuid>1004b52e-3416-4488-a24d-7050ad398f33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

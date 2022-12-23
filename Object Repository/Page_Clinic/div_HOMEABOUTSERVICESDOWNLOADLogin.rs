@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_HOMEABOUTSERVICESDOWNLOADLogin</name>
+   <tag></tag>
+   <elementGuidId>79848d88-5f13-4fea-8ea5-c429ddca50b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.flex-wrap.align-items-center.justify-content-center.justify-content-lg-start</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>68cb849b-42b2-4178-88c1-a78a50e0b0a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start</value>
+      <webElementGuid>752ba42b-c959-4e0c-ab69-9a19e2ba219e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HOMEABOUTSERVICESDOWNLOADLogin</value>
+      <webElementGuid>75293794-9502-4a85-9694-a8ea7536ac33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/header[@class=&quot;_bgHeader_16ww9_1&quot;]/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start&quot;]</value>
+      <webElementGuid>3a7c47c8-25e2-4cab-b6d6-d1554a9e5035</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header/div/div/div</value>
+      <webElementGuid>b45c5e5d-be33-4fde-b5f0-2cf0ea752514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/div</value>
+      <webElementGuid>bc8cf474-7003-4543-91d0-cf997cf04ee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'HOMEABOUTSERVICESDOWNLOADLogin' or . = 'HOMEABOUTSERVICESDOWNLOADLogin')]</value>
+      <webElementGuid>392c40b1-bf64-4281-a087-be275c25266c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

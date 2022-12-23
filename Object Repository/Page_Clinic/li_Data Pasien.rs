@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Data Pasien</name>
+   <tag></tag>
+   <elementGuidId>50239c48-69d0-4904-a7d6-0650e702a1e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='home-collapse']/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c6b332ab-ab45-46d9-a4ad-a7abe5f4f7ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>63c290ed-1ccc-4167-97dd-6eca59f10915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Pasien</value>
+      <webElementGuid>18f8f9a4-f33c-4075-890d-134220e950a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-collapse&quot;)/ul[@class=&quot;btn-toggle-nav list-unstyled fw-normal pb-1 small&quot;]/li[@class=&quot;link&quot;]</value>
+      <webElementGuid>4bf6cc3e-ec94-4929-ae41-82c24a8fe64e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='home-collapse']/ul/li</value>
+      <webElementGuid>5628c421-6d48-417f-95ce-1cc95ffef31e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient'])[1]/following::li[1]</value>
+      <webElementGuid>58136908-c6c3-4b2c-95b9-27a8a7d3175f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::li[1]</value>
+      <webElementGuid>e5589a7b-77ac-476a-89a2-913e8dffe1bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doctors'])[1]/preceding::li[2]</value>
+      <webElementGuid>4de7e110-ebae-45e6-9343-7bfbd00ffbf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[1]/preceding::li[2]</value>
+      <webElementGuid>5a75d906-d49e-4fb7-ab6b-067bf840559a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>1994d9fe-62d1-4308-9837-22b1b356b2e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Data Pasien' or . = 'Data Pasien')]</value>
+      <webElementGuid>dc3e631f-2a3a-47b5-aec1-8a3707bbfd9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

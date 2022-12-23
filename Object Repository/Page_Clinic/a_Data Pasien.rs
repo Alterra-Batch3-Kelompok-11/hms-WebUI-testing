@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Data Pasien</name>
+   <tag></tag>
+   <elementGuidId>323d041c-c6de-4a87-95af-adee55791231</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='home-collapse']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.link-dark.d-inline-flex.text-decoration-none.rounded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>879d9e3b-6d52-4505-b9b6-298d9663614b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Admin/PatientList</value>
+      <webElementGuid>547f8eb4-c8d8-4cdc-8cd7-6914f8ed7e52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link-dark d-inline-flex text-decoration-none rounded</value>
+      <webElementGuid>26a7ed44-0c87-42a9-b4ff-1460f83d151d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Pasien</value>
+      <webElementGuid>13345698-9811-4b1a-88fd-6c4cefa58700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-collapse&quot;)/ul[@class=&quot;btn-toggle-nav list-unstyled fw-normal pb-1 small&quot;]/li[@class=&quot;link&quot;]/a[@class=&quot;link-dark d-inline-flex text-decoration-none rounded&quot;]</value>
+      <webElementGuid>251f9725-d276-4f81-8226-c313207936d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4b4ae30b-151c-401d-8faf-e75999247968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Admin/PatientList</value>
+      <webElementGuid>a5edd288-7ea8-4b62-852d-28884685a0a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link-dark d-inline-flex text-decoration-none rounded</value>
+      <webElementGuid>472e8059-5d93-49e0-9855-e9a996990b54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Pasien</value>
+      <webElementGuid>67bfc5de-aea0-4111-93b0-ef3464acf3f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-collapse&quot;)/ul[@class=&quot;btn-toggle-nav list-unstyled fw-normal pb-1 small&quot;]/li[@class=&quot;link&quot;]/a[@class=&quot;link-dark d-inline-flex text-decoration-none rounded&quot;]</value>
+      <webElementGuid>06ab2c48-a48d-43e1-b033-8e337723d7a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='home-collapse']/ul/li/a</value>
+      <webElementGuid>dc3515a7-7a6c-4ebb-93ba-066afb455663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient'])[1]/following::a[1]</value>
+      <webElementGuid>1af0d59e-f116-4cb3-aa56-2a27a10a7603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[1]</value>
+      <webElementGuid>471c95d4-efce-4621-a782-2cbe6631fdd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doctors'])[1]/preceding::a[2]</value>
+      <webElementGuid>ff0a7b4a-0b2a-439c-a747-bcbc4a1fb9b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[1]/preceding::a[3]</value>
+      <webElementGuid>e3949791-1ccf-413a-a9a7-cad958df2d6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Admin/PatientList')]</value>
+      <webElementGuid>1282145b-f779-48da-816c-9e49ade3a98f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>747e90da-8132-4db9-90be-2e1f8fe837fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Admin/PatientList' and (text() = 'Data Pasien' or . = 'Data Pasien')]</value>
+      <webElementGuid>9282bc8b-ae52-431f-ae93-08d0489c71a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

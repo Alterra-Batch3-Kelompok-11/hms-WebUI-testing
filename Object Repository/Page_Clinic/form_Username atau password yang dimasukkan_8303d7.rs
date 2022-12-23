@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Username atau password yang dimasukkan_8303d7</name>
+   <tag></tag>
+   <elementGuidId>8eafa98a-af12-4098-9c43-5ce3dd22ac86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/form</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>f0511248-ee71-4316-9de3-4156abfb1a5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username atau password yang dimasukkan salah. Mohon periksa kembali.Login</value>
+      <webElementGuid>b4e04dd9-de81-446f-8fc2-65012de8920a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_background_1bqjf_3&quot;]/div[@class=&quot;_box_1bqjf_14 _login_1bqjf_26&quot;]/form[1]</value>
+      <webElementGuid>7101b09f-c3cb-4542-9e07-4234bf55e9f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/form</value>
+      <webElementGuid>a23c1c09-5fd6-472c-b5e8-3e66e111d897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selamat Datang di Cleanic'])[1]/following::form[1]</value>
+      <webElementGuid>995ec341-03a4-4f3f-b70a-2254a58b25e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>5708b5df-a529-44dc-ae13-0f9be4d2518a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'Username atau password yang dimasukkan salah. Mohon periksa kembali.Login' or . = 'Username atau password yang dimasukkan salah. Mohon periksa kembali.Login')]</value>
+      <webElementGuid>33200433-109e-463d-a713-71e991ab481a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

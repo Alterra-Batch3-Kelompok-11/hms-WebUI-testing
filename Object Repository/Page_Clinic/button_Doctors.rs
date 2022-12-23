@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Doctors</name>
+   <tag></tag>
+   <elementGuidId>7327d6b8-7a13-4ccc-81f0-40d7e635f16a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/a[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dfc94a94-44fb-4b0c-bda1-c648e374fbc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-toggle d-inline-flex border-0 collapsed</value>
+      <webElementGuid>fcfcb683-e3eb-4e5a-8484-f8916ad2df82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Doctors</value>
+      <webElementGuid>874ed651-54df-4c8e-9ec8-06d514a6a989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;shadow sidebar sticky-top col-2&quot;]/div[2]/a[@class=&quot;text-decoration-none link mb-3&quot;]/div[@class=&quot;link&quot;]/button[@class=&quot;btn btn-toggle d-inline-flex border-0 collapsed&quot;]</value>
+      <webElementGuid>0672cc3f-172f-4c0a-9ae3-a5331da12502</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/a[2]/div/button</value>
+      <webElementGuid>9814bb48-6f81-4d3c-b991-55c8010e303a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient'])[1]/following::button[1]</value>
+      <webElementGuid>9056443a-2ecf-47c0-b384-fa3e16acbe6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::button[2]</value>
+      <webElementGuid>75d5022a-86fb-4d85-a23d-26435bf9b925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[1]/preceding::button[1]</value>
+      <webElementGuid>849719ef-af8b-4171-b558-6c891b5ba2c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/button</value>
+      <webElementGuid>3436999a-bf12-44cb-8ff4-90ce081caa12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Doctors' or . = 'Doctors')]</value>
+      <webElementGuid>f7b2f99c-1087-40b6-8a70-937d5300fde2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

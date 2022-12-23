@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Message</name>
+   <tag></tag>
+   <elementGuidId>1c4d2ed1-2451-44c6-b709-85a30543671c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/a[3]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cf657f52-e2c6-4f9b-addb-dc000edf0b62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-toggle d-inline-flex border-0 collapsed</value>
+      <webElementGuid>34ae75df-081b-404c-8595-4bd7ca560521</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Message</value>
+      <webElementGuid>60808262-55f6-477e-8337-29c679baba85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;shadow sidebar sticky-top col-2&quot;]/div[2]/a[@class=&quot;text-decoration-none link mb-3&quot;]/div[@class=&quot;link&quot;]/button[@class=&quot;btn btn-toggle d-inline-flex border-0 collapsed&quot;]</value>
+      <webElementGuid>7ffda55f-19d4-4646-bb73-65bb6d19ff6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/a[3]/div/button</value>
+      <webElementGuid>0dc754bb-d36a-4299-a161-e62ed5f0fb85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doctors'])[1]/following::button[1]</value>
+      <webElementGuid>0b053f13-facf-40f2-8c14-305be38ef86f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient'])[1]/following::button[2]</value>
+      <webElementGuid>0a39609d-595c-4d2e-9d98-d8ee7587f427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/preceding::button[1]</value>
+      <webElementGuid>801e9d6e-6757-4842-a1c1-8dd2d7d8f624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div/button</value>
+      <webElementGuid>2f8cd790-512f-4a21-91d0-f16abce0bf45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Message' or . = 'Message')]</value>
+      <webElementGuid>4ddfce40-984f-405c-bdfe-f836d81b3f02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Edit DataHapus DataRiwayat PasienTambah _629bab</name>
+   <tag></tag>
+   <elementGuidId>87bfc74b-ab29-40c8-bcaa-996eb08efea0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/div[2]/div/table/div[2]/div[3]/tbody/tr/td[7]/div/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.dropdown-menu.text-center.poppins-font.show</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>b0680f2a-a7bb-44c8-a812-68f3c864a8cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-menu text-center poppins-font show</value>
+      <webElementGuid>ed11ca39-2d22-479c-9691-b637d1f04348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-popper-placement</name>
+      <type>Main</type>
+      <value>top-end</value>
+      <webElementGuid>57c38e94-9463-421b-b25a-5bb26738da83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit DataHapus DataRiwayat PasienTambah Rawat Jalan</value>
+      <webElementGuid>eff9242f-1f39-45c1-aba8-ab6753ec145c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 col-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;content container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container border&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-borderless text-center poppins-font&quot;]/div[2]/div[@class=&quot;border _PaddingTopBottom_1knu3_17&quot;]/tbody[1]/tr[1]/td[7]/div[@class=&quot;btn-group&quot;]/ul[@class=&quot;dropdown-menu text-center poppins-font show&quot;]</value>
+      <webElementGuid>eef43b87-300b-445f-ab27-a46e1624d1eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div[2]/div/table/div[2]/div[3]/tbody/tr/td[7]/div/ul</value>
+      <webElementGuid>1f624357-a61c-445b-8230-9295b88e0059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='•••'])[3]/following::ul[1]</value>
+      <webElementGuid>038bcc0f-2def-4b9f-80c4-d9f2f40c975d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laki - Laki'])[3]/following::ul[1]</value>
+      <webElementGuid>04626347-4b4a-4d99-899c-40c3221db77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/tbody/tr/td[7]/div/ul</value>
+      <webElementGuid>7679e407-cbe4-41b9-966f-d1b508d23874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'Edit DataHapus DataRiwayat PasienTambah Rawat Jalan' or . = 'Edit DataHapus DataRiwayat PasienTambah Rawat Jalan')]</value>
+      <webElementGuid>ee79336d-dc70-41dc-89a8-4266f60e754f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

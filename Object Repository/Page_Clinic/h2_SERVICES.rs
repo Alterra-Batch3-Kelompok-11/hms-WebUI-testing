@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_SERVICES</name>
+   <tag></tag>
+   <elementGuidId>70603bf0-3c96-470f-b450-881bb822d7eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/header/div/div/div/ul/li[3]/a/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>dcb79ac9-5078-41eb-b330-12f6dd57ad71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SERVICES</value>
+      <webElementGuid>a61c5647-eacd-46cf-b04b-03d00dd5c02d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/header[@class=&quot;_bgHeader_16ww9_1&quot;]/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start&quot;]/ul[@class=&quot;nav col-12 col-lg-auto justify-content-center text-small&quot;]/li[3]/a[@class=&quot;nav-link mt-2 mx-4&quot;]/h2[1]</value>
+      <webElementGuid>9c9cffa6-e455-4e69-96f4-5614f0ea88a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/header/div/div/div/ul/li[3]/a/h2</value>
+      <webElementGuid>c5c07378-9d33-4d08-b30c-a0e942722fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABOUT'])[1]/following::h2[1]</value>
+      <webElementGuid>5066f4af-19d7-4753-ba91-4ab87d09f48b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOME'])[1]/following::h2[2]</value>
+      <webElementGuid>50de6d36-79da-4397-b3e1-8eb0553e7d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOWNLOAD'])[1]/preceding::h2[1]</value>
+      <webElementGuid>2dec8f8a-576c-4c17-895d-dd20a574cb8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::h2[2]</value>
+      <webElementGuid>91fc315d-cc22-445e-b9ec-dcb44adacadc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SERVICES']/parent::*</value>
+      <webElementGuid>fdd0d7e5-0657-48d3-8997-0392e12c1541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/h2</value>
+      <webElementGuid>84dafdcd-b322-467b-a2e6-14f72434dfe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'SERVICES' or . = 'SERVICES')]</value>
+      <webElementGuid>3a5e8f99-6fe1-48ed-bf68-95885d7d6011</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
